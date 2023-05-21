@@ -1,6 +1,8 @@
 # crowdfunding_ETL
 Project 2 for the ETL pipeline module of Datavis bootcamp
 
+Project Team: Meardreed Vilmeus, Max Young, Dayana Iciano, Omer Sen, Priya Jain
+
 Title: The Art of Building an ETL Pipeline
 
 Summary: Build an ETL pipeline using Python, Pandas and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, create four CSV files and use the CSV file data to create an ERD and a table schema, and finally, upload the CSV file data into a Postgres database.
